@@ -1,4 +1,3 @@
-import { expect } from "@jest/globals";
 import Ship from "../Ship"
 
 test("return ship's length", () => {
